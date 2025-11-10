@@ -18,5 +18,6 @@ ENV/
 *.env
 
 
-.mp3
-.wav
+# audio
+*.mp3
+*.wav
